@@ -18,5 +18,7 @@ In the front-end
 In the back-end
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=4169E1&logo=postgresql&logoColor=ffffff)
+![NodeJS](https://img.shields.io/badge/-NodeJS-232323?style=flat&labelColor=000000&logo=node.js&logoColor=52B0E7)
 ![Express](https://img.shields.io/badge/-Express-232323?style=flat&labelColor=000000&logo=express&logoColor=ffffff)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-232323?style=flat&labelColor=000000&logo=sequelize&logoColor=52B0E7)
+
