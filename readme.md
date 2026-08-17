@@ -1,23 +1,65 @@
-# Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
+# Hello, I'm Gabriel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-My name is Gabriel and I am 18 years old. I am a first year student of the Systems Analysis and Development course. I want to work on the web side as a full stack developer.
+Full Stack Developer, 18 years old, studying Systems Analysis and Development at FATEC (technical background in Systems Development from ETEC). I build web applications end-to-end — from database modeling to deployed UI — and I'm currently looking for my first opportunity as a Junior Developer or Intern.
 
-### Here's some of the stuff I know how to use and some I am still learning
+## 🚀 Featured Projects
 
-In the front-end
+### [vig-barber](https://github.com/Gabriel-Vignoli/vig-barber)
+Full stack barbershop booking system. Users can book appointments, and the barbershop manages schedules through an admin flow.
+`Next.js` `TypeScript` `Prisma` `PostgreSQL` `NextAuth` `TailwindCSS`
 
-![HTML5](https://img.shields.io/badge/-HTML5-232323?style=flat&labelColor=E34F26&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-232323?style=flat&labelColor=1572B6&logo=css3&logoColor=ffffff)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-232323?style=flat&labelColor=06B6D4&logo=tailwindcss&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-232323?style=flat&labelColor=000000&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/-TypeScript-232323?style=flat&labelColor=000000&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/-React-232323?style=flat&labelColor=61DAFB&logo=react&logoColor=000000)
-![Next](https://img.shields.io/badge/-Next.js-000000?style=flat&labelColor=000000&logo=next.js&logoColor=ffffff)
+### [FitPlan Admin Dashboard](https://github.com/Gabriel-Vignoli/FitPlan-Admin-Dashboard)
+Admin dashboard for gym management — student and exercise registration, media upload, and JWT authentication. Built as my technical school capstone project.
+`Next.js` `TypeScript` `Prisma` `PostgreSQL` `AWS S3` `JWT`
 
-In the back-end
+### [Restaurante Carijó](https://github.com/Gabriel-Vignoli/restaurante-e-lanchonete-carijo-landing-page)
+Freelance project delivered for a real paying client: a restaurant website with scroll animations and 3D effects.
+`HTML` `CSS` `JavaScript` `GSAP` `Three.js`
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=4169E1&logo=postgresql&logoColor=ffffff)
-![NodeJS](https://img.shields.io/badge/-NodeJS-232323?style=flat&labelColor=000000&logo=node.js&logoColor=52B0E7)
-![Express](https://img.shields.io/badge/-Express-232323?style=flat&labelColor=000000&logo=express&logoColor=ffffff)
-![Prisma](https://img.shields.io/badge/-Prisma-232323?style=flat&labelColor=000000&logo=prisma&logoColor=white)
+## 🛠️ Tech Stack
 
+**Front-end**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+**Back-end**
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+## 📊 GitHub Stats
+ 
+<p align="left">
+  <img src="https://github-stats-extended.vercel.app/api?username=Gabriel-Vignoli&show_icons=true&theme=dark&hide_border=true" height="165" alt="GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gabriel-Vignoli&layout=compact&theme=dark&hide_border=true" height="165" alt="Top languages" />
+</p>
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=Gabriel-Vignoli&theme=dark&hide_border=true" alt="GitHub streak" />
+</p>
+
+
+## 📫 Let's connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/gabriel-vignoli/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:pessoalvignoli123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
